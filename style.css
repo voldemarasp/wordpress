@@ -1,0 +1,18 @@
+/*
+Theme Name: NO Name
+Theme URI: https://arunas.co/
+Description: A hello world theme
+Author: VP
+Version: 0.1
+Text Domain: html5up-story
+*/
+
+.icon i { 
+padding: 20px;
+border-radius: 50px;
+border: 1px solid #b2b3b7;
+}
+
+#sidebar {
+	list-style-type: none;
+}
