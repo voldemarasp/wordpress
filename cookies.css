@@ -1,0 +1,29 @@
+.sausainiai {
+	position: fixed;
+	bottom: 0;
+	background-color: black;
+	opacity: 0.8;
+	width: 100%;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+.tekstas {
+	color: white;
+	text-align: center;
+	width: 90%;
+	float:left;
+}
+
+.iksas {
+	color:white;
+	float:left;
+	width:10%;
+	margin-top:10px;
+	text-align: center;
+}
+
+.wrapas-sausainiu {
+	margin: 0 auto;
+	width: 80%;
+}
